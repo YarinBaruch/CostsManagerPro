@@ -5,3 +5,7 @@ The server side was written in Java.
 * HttpSession
 * HttpServletRequest	
 * HttpServletResponse
+* Hibernate
+* MySQL 
+* JSP 
+* Servlet
